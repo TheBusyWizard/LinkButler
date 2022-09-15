@@ -1,0 +1,70 @@
+{
+	"lang":             "us-EN",
+	"name":             "LinkButler",
+	"short_name":       "LinkButler",
+	"description":      "A tool for managing (searching, sorting, tagging, etc) very large collections of URLs and their associated resources.",
+	"categories":       [ "productivity", "utilities" ],
+
+	"start_url":        ".",
+	"scope":            "/",
+
+	"background_color": "#000",
+	"theme_color":      "#000",
+	"display":          "standalone",
+
+	"icons": [
+		{
+			"src":      "media/image/logo.svg",
+			"sizes":    "64x64 128x128 256x256 512x512",
+			"type":     "image/svg+xml"
+		},
+
+		{
+			"src":      "media/image/logo_64.webp",
+			"sizes":    "64x64",
+			"type":     "image/webp"
+		},
+
+		{
+			"src":      "media/image/logo_128.webp",
+			"sizes":    "128x128",
+			"type":     "image/webp"
+		},
+
+		{
+			"src":      "media/image/logo_256.webp",
+			"sizes":    "256x256",
+			"type":     "image/webp"
+		},
+
+		{
+			"src":      "media/image/logo_512.webp",
+			"sizes":    "512x512",
+			"type":     "image/webp"
+		},
+
+		{
+			"src":      "media/image/logo_64.png",
+			"sizes":    "64x64",
+			"type":     "image/png"
+		},
+
+		{
+			"src":      "media/image/logo_128.png",
+			"sizes":    "128x128",
+			"type":     "image/png"
+		},
+
+		{
+			"src":      "media/image/logo_256.png",
+			"sizes":    "256x256",
+			"type":     "image/png"
+		},
+
+		{
+			"src":      "media/image/logo_512.png",
+			"sizes":    "512x512",
+			"type":     "image/png"
+		}
+	]
+}
