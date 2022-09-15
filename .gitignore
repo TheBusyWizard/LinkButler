@@ -1,0 +1,9 @@
+.yarn/
+
+_build/
+_cache/
+_config/
+_design/
+
+node_modules/
+
